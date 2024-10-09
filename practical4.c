@@ -2,6 +2,7 @@
 #include <math.h>
 
 #define ARRAY_SIZE 13
+#define M_PI 3.14
 
 // Global array to store tan values from 0 to 60 degrees
 double tan_values[ARRAY_SIZE];

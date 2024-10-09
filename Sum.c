@@ -22,8 +22,8 @@ int main(void) {
       sum2 += 1.0 / i;
    }
 
-   printf(" Sum1=%f\n",sum1);
-   printf(" Sum2=%f\n",sum2);
+   printf(" Sum1 = %f\n",sum1);
+   printf(" Sum2 = %f\n",sum2);
 
 /* Find the difference */
    diff = sum1 - sum2;
